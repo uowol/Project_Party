@@ -193,24 +193,24 @@ public class Controller implements Initializable {
 
             switch (value) {
                 case 0:
-                    path = "src/project_Java/source/bgm1.mp3";
+                    path = "project_Java/source/bgm1.mp3";
                 case 1:
-                    path = "src/project_Java/source/bgm1.mp3";
+                    path = "project_Java/source/bgm1.mp3";
                     break;
                 case 2:
-                    path = "src/project_Java/source/bgm1.mp3";
+                    path = "project_Java/source/bgm1.mp3";
                     break;
                 case 3:
-                    path = "src/project_Java/source/bgm1.mp3";
+                    path = "project_Java/source/bgm1.mp3";
                     break;
                 case 4:
-                    path = "src/project_Java/source/bgm1.mp3";
+                    path = "project_Java/source/bgm1.mp3";
                     break;
                 case 5:
-                    path = "src/project_Java/source/bgm1.mp3";
+                    path = "project_Java/source/bgm1.mp3";
                     break;
                 default:
-                    path = "src/project_Java/source/bgm1.mp3";
+                    path = "project_Java/source/bgm1.mp3";
             }
 
             media = (new Media(new File(path).toURI().toString()));
